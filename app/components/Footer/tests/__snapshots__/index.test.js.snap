@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Footer /> should render and match the snapshot 1`] = `
+<footer>
+  <hr
+    className="MuiDivider-root"
+  />
+</footer>
+`;
+
+exports[`<Footer /> should render and match the snapshot of footer`] = `
+  <footer>
+    <hr class="MuiDivider-root">
+  </footer>
+`;
